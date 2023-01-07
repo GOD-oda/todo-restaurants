@@ -1,19 +1,23 @@
 # todo-restaurants
 
-## 鶯谷
+## 東京
+### 鶯谷
 - [ ] [焼肉 鶯谷園](https://tabelog.com/tokyo/A1311/A131104/13012243/)
 
-## 銀座
+### 銀座
 - [ ] [鮨 銀座おのでら 登龍門](https://onodera-group.com/touryumon/)
 
-## お茶の水
+### お茶の水
 - [ ] [新御茶ノ水 萬龍](https://tabelog.com/tokyo/A1310/A131002/13246044/)
 
-## 門前仲町
+### 門前仲町
 - [ ] [とんかつ 丸七](https://tabelog.com/tokyo/A1313/A131303/13263014/)
 
-## 上野
+### 上野
 - [ ] [沼津港　海将　上野1号店](https://tabelog.com/tokyo/A1311/A131101/13157499/)
+
+### 荒川
+- [ ] [光栄軒](https://tabelog.com/tokyo/A1324/A132401/13018599/)
 
 ## 福岡
 - [ ] [博多豊一　長浜食堂](https://hakata-toyoichi.owst.jp/)
