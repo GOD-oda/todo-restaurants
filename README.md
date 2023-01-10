@@ -19,6 +19,9 @@
 ### 御徒町
 - [ ] [中華 大興](https://tabelog.com/tokyo/A1311/A131101/13036933/)
 
+### 秋葉原
+- [ ] [ステーキロッヂ秋葉原店](https://steaklodge.studio.site/)
+
 ### 荒川
 - [ ] [光栄軒](https://tabelog.com/tokyo/A1324/A132401/13018599/)
 
