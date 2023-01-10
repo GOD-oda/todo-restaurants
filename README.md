@@ -16,6 +16,9 @@
 ### 上野
 - [ ] [沼津港　海将　上野1号店](https://tabelog.com/tokyo/A1311/A131101/13157499/)
 
+### 御徒町
+- [ ] [中華 大興](https://tabelog.com/tokyo/A1311/A131101/13036933/)
+
 ### 荒川
 - [ ] [光栄軒](https://tabelog.com/tokyo/A1324/A132401/13018599/)
 
