@@ -22,6 +22,9 @@
 ### 荒川
 - [ ] [光栄軒](https://tabelog.com/tokyo/A1324/A132401/13018599/)
 
+## 埼玉
+- [ ] [自家製麺 竜葵](https://tabelog.com/saitama/A1102/A110201/11042362/)
+
 ## 福岡
 - [ ] [博多豊一　長浜食堂](https://hakata-toyoichi.owst.jp/)
 
