@@ -33,14 +33,12 @@
 
 ## 福岡
 - [ ] [博多豊一　長浜食堂](https://hakata-toyoichi.owst.jp/)
+- [ ] [亀松](https://tabelog.com/fukuoka/A4001/A400103/40010670/)
 
 ## 三重
 - [ ] [びっくりや](https://tabelog.com/mie/A2402/A240202/24004532/)
 
 ## 京都
 - [ ] [八代目御池カレー](https://tabelog.com/kyoto/A2601/A260202/26036381/)
-
-## 福岡
-- [ ] [亀松](https://tabelog.com/fukuoka/A4001/A400103/40010670/)
 
 
