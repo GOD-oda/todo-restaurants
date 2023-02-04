@@ -28,6 +28,9 @@
 ### 調布
 - [ ] [柴崎亭 つつじヶ丘本店](https://tabelog.com/tokyo/A1326/A132601/13135162/)
 
+### 板橋
+- [ ] [中華料理 丸鶴](https://tabelog.com/tokyo/A1322/A132203/13142320/)
+
 ## 埼玉
 - [ ] [自家製麺 竜葵](https://tabelog.com/saitama/A1102/A110201/11042362/)
 
