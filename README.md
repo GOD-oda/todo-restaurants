@@ -36,7 +36,7 @@
 - [ ] [亀松](https://tabelog.com/fukuoka/A4001/A400103/40010670/)
 
 ## 大阪
--[ ] [京洛焼肉 ぽめ](https://tabelog.com/osaka/A2701/A270201/27119987/)
+- [ ] [京洛焼肉 ぽめ](https://tabelog.com/osaka/A2701/A270201/27119987/)
 
 ## 三重
 - [ ] [びっくりや](https://tabelog.com/mie/A2402/A240202/24004532/)
