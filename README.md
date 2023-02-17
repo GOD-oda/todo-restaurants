@@ -42,6 +42,9 @@
 - [ ] [京洛焼肉 ぽめ](https://tabelog.com/osaka/A2701/A270201/27119987/)
 - [ ] [中華そば　ひふみ](https://tabelog.com/osaka/A2701/A270101/27133294/)
 
+## 京都
+- [ ] [麺匠 一粒万倍 河原町店](https://tabelog.com/kyoto/A2601/A260301/26033041/)
+
 ## 三重
 - [ ] [びっくりや](https://tabelog.com/mie/A2402/A240202/24004532/)
 
