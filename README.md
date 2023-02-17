@@ -40,6 +40,7 @@
 
 ## 大阪
 - [ ] [京洛焼肉 ぽめ](https://tabelog.com/osaka/A2701/A270201/27119987/)
+- [ ] [中華そば　ひふみ](https://tabelog.com/osaka/A2701/A270101/27133294/)
 
 ## 三重
 - [ ] [びっくりや](https://tabelog.com/mie/A2402/A240202/24004532/)
