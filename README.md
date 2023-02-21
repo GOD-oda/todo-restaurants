@@ -18,6 +18,7 @@
 
 ### 御徒町
 - [ ] [中華 大興](https://tabelog.com/tokyo/A1311/A131101/13036933/)
+- [ ] [神保町 黒須](https://tabelog.com/tokyo/A1310/A131003/13201888/)
 
 ### 秋葉原
 - [ ] [ステーキロッヂ秋葉原店](https://steaklodge.studio.site/)
@@ -36,7 +37,7 @@
 
 ## 福岡
 - [ ] [博多豊一　長浜食堂](https://hakata-toyoichi.owst.jp/)
-- [ ] [亀松](https://tabelog.com/fukuoka/A4001/A400103/40010670/)
+- [x] [亀松](https://tabelog.com/fukuoka/A4001/A400103/40010670/)
 
 ## 大阪
 - [ ] [京洛焼肉 ぽめ](https://tabelog.com/osaka/A2701/A270201/27119987/)
