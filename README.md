@@ -19,6 +19,7 @@
 ### 御徒町
 - [ ] [中華 大興](https://tabelog.com/tokyo/A1311/A131101/13036933/)
 - [ ] [神保町 黒須](https://tabelog.com/tokyo/A1310/A131003/13201888/)
+- [ ] [TOKYO焼肉ごぉ 本店](https://tabelog.com/tokyo/A1311/A131101/13201243/)
 
 ### 秋葉原
 - [ ] [ステーキロッヂ秋葉原店](https://steaklodge.studio.site/)
