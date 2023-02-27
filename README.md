@@ -35,6 +35,9 @@
 ### 曳舟
 - [ ] [オムの細道](https://tabelog.com/tokyo/A1312/A131203/13266596/)
 
+### 新宿
+- [ ] [焼肉ヒロミヤ](https://sites.google.com/site/hiromiyasan/)
+
 ## 埼玉
 - [ ] [自家製麺 竜葵](https://tabelog.com/saitama/A1102/A110201/11042362/)
 
